@@ -1510,7 +1510,7 @@ colorchooser #add-color-button {
 
 headerbar {
   min-height: 30px;
-  padding: 12px 14px;
+  padding: 4px 5px;
   border: none;
   border-radius: 0px;
   color: #000000;
